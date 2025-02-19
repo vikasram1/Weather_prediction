@@ -1,1 +1,2 @@
-# rain_prediction
+# Weather_prediction
+this model is used to predict weather.
